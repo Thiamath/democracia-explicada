@@ -14,9 +14,8 @@ No hay dependencias ni fase de compilación. Para verla localmente, abre `index.
 
 ## GitHub Pages
 
-1. Copia estos archivos a la raíz de la rama `main` del repositorio.
-2. Abre **Settings → Pages**; en **Build and deployment**, selecciona **Deploy from a branch**, `main` y `/ (root)`.
-3. Cuando finalice la publicación, abre `https://thiamath.github.io/democracia-explicada/`.
+1. Abre **Settings → Pages**; en **Build and deployment**, selecciona **Deploy from a branch**, `main` y `/ (root)`.
+2. Cuando finalice la publicación, abre `https://thiamath.github.io/democracia-explicada/`.
 
 El dominio personalizado aún no está configurado. Cuando registres uno, verifícalo y configúralo en **Settings → Pages → Custom domain**; después ajusta los registros DNS en el registrador y activa **Enforce HTTPS** cuando esté disponible. No añadas un archivo `CNAME` antes de decidir el dominio.
 
@@ -28,4 +27,4 @@ Antes de publicar un resumen, documenta fecha de sesión y publicación, órgano
 
 ## Licencia
 
-El repositorio original incluye una licencia CC0 1.0. Comprueba las condiciones de reutilización de cualquier material ajeno que incorpores.
+El repositorio incluye una licencia CC0 1.0. Comprueba las condiciones de reutilización de cualquier material ajeno que incorpores.
