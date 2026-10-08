@@ -2,6 +2,12 @@
 
 Web estática para explicar la actividad del Congreso de los Diputados y ofrecer educación cívica en lenguaje claro. El proyecto está en fase inicial y todavía no publica resúmenes de sesiones.
 
+## Estado del proyecto y contribuciones
+
+Democracia Explicada está en fase de creación. La estructura, el método editorial y los primeros contenidos todavía se están definiendo; lo publicado ahora es una base inicial, no una cobertura regular de la actividad parlamentaria.
+
+**De momento no se admiten contribuciones externas.** Por favor, no abras pull requests para añadir contenido o código. Revisaremos esta política cuando exista un proceso editorial y de revisión definido.
+
 ## Estructura
 
 - `index.html`: portada.
