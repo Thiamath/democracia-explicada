@@ -34,3 +34,12 @@ Antes de publicar un resumen, documenta fecha de sesión y publicación, órgano
 ## Licencia
 
 El repositorio incluye una licencia CC0 1.0. Comprueba las condiciones de reutilización de cualquier material ajeno que incorpores.
+
+## Preferencias de lectura
+
+Todas las páginas incluyen tema sistema/claro/oscuro y selector de idioma.
+La interfaz dispone de castellano, catalán, gallego, euskera, valenciano e inglés;
+las traducciones de interfaz requieren revisión lingüística. El contenido editorial
+sigue en castellano y se señala cuando no hay traducción disponible.
+Consulta `docs/arquitectura-contenidos.md` para incorporar versiones completas
+sin duplicar la identidad editorial de los artículos.
