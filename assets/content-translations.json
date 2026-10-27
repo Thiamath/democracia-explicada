@@ -1,0 +1,50 @@
+{
+  "index.html": {
+    "id": "home",
+    "translations": {
+      "es": "index.html"
+    }
+  },
+  "metodo/index.html": {
+    "id": "metodo",
+    "translations": {
+      "es": "metodo/index.html"
+    }
+  },
+  "instituciones/index.html": {
+    "id": "instituciones",
+    "translations": {
+      "es": "instituciones/index.html"
+    }
+  },
+  "sesiones/index.html": {
+    "id": "sesiones",
+    "translations": {
+      "es": "sesiones/index.html"
+    }
+  },
+  "normas/index.html": {
+    "id": "normas",
+    "translations": {
+      "es": "normas/index.html"
+    }
+  },
+  "aprende/index.html": {
+    "id": "aprende",
+    "translations": {
+      "es": "aprende/index.html"
+    }
+  },
+  "actualidad/index.html": {
+    "id": "actualidad",
+    "translations": {
+      "es": "actualidad/index.html"
+    }
+  },
+  "aprende/decreto-ley/index.html": {
+    "id": "aprende/decreto-ley",
+    "translations": {
+      "es": "aprende/decreto-ley/index.html"
+    }
+  }
+}
